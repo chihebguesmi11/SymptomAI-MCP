@@ -19,6 +19,7 @@ The project is designed as both a **learning resource** for MCP and a **practica
 
 ---
 ## Architecture  
+![Architecture GIF](mcp_architecture_gif.gif)
 
 **Flow:**  
 Browser → FastAPI → MCP Client ⇆ MCP Server (Tools) → Results  
@@ -79,6 +80,7 @@ This project is organized into the following key directories and files:
 ├── mcp_architecture_gif.gif   # An animated visualization of the MCP architecture.
 └── README.md                # The main README file for this repository.
 ```
+
 
 
 
