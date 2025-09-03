@@ -6,7 +6,7 @@
 ![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Model-purple)
 ![AI Agent](https://img.shields.io/badge/Agentic%20AI-Emerging%20Paradigm-ff69b4)
 ![Gemini](https://img.shields.io/badge/Gemini-Google%20DeepMind-4285F4?logo=google)
-[![Build Status](https://travis-ci.org/username/repo.svg?branch=main)](https://travis-ci.org/username/repo)
+![Trivy Scan](https://github.com/<owner>/<repo>/actions/workflows/trivy-scan.yml/badge.svg)
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
 ![JSON-RPC](https://img.shields.io/badge/Protocol-JSON--RPC-lightgrey)
@@ -74,5 +74,6 @@ The repository includes an **animated architecture GIF** visualizing the system 
 ├── templates/           # HTML frontend
 ├── mcp_architecture_gif.gif  # Animated architecture visualization
 └── README.md
+
 
 
