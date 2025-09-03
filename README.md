@@ -65,14 +65,21 @@ The repository includes an **animated architecture GIF** visualizing the system 
   ---
 ## Repository Structure  
 
+# Project Structure
+
+This project is organized into the following key directories and files:
+
+```
 .
-├── app.py               # FastAPI application
-├── mcp_client/          # MCP client implementation
-├── mcp_server/          # MCP server with tools + LLM
-├── static/              # Frontend assets (images, video)
-├── templates/           # HTML frontend
-├── mcp_architecture_gif.gif  # Animated architecture visualization
-└── README.md
+├── app.py                   # The main FastAPI application entry point.
+├── mcp_client/              # Contains the implementation for the MCP client.
+├── mcp_server/              # Houses the MCP server, including various tools and the LLM (Large Language Model) integration.
+├── static/                  # Stores static frontend assets, such as images and video.
+├── templates/               # Contains the HTML templates for the frontend.
+├── mcp_architecture_gif.gif   # An animated visualization of the MCP architecture.
+└── README.md                # The main README file for this repository.
+```
+
 
 
 
