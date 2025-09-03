@@ -12,8 +12,8 @@ mcp = FastMCP("symptom-ai")
 # ---------------------
 # API keys
 # ---------------------
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCspSZkzS23r1ZrEl2Vym4H6QEHjRetaBg"
-os.environ["TAVILY_API_KEY"] = "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"
+os.environ["GOOGLE_API_KEY"] = "###"
+os.environ["TAVILY_API_KEY"] = "###"
 
 # LLM & Search
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0)
