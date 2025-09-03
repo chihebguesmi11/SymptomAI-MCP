@@ -1,7 +1,8 @@
 # SymptomAI-MCP: Symptom Checker with Model Context Protocol  
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-orange)
+![](https://badge.mcpx.dev?type=server 'MCP Server')
+![](https://badge.mcpx.dev?type=client 'MCP Client')
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success?logo=fastapi)
 ![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Model-purple)
 ![AI Agent](https://img.shields.io/badge/Agentic%20AI-Emerging%20Paradigm-ff69b4)
@@ -80,6 +81,7 @@ This project is organized into the following key directories and files:
 ├── mcp_architecture_gif.gif   # An animated visualization of the MCP architecture.
 └── README.md                # The main README file for this repository.
 ```
+
 
 
 
